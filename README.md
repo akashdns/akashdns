@@ -23,6 +23,36 @@
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+US IT Recruitment (8+ years)
+↓
+Learning DSA + Java @ Scaler Academy
+↓
+Building Projects & Open Source Contributions
+↓
+Software Development Engineer 🎯
+
+---
+
+## 🏆 Highlights
+
+- 🤝 200+ successful IT placements across USA & Canada
+- 🧠 Pursuing DSA & Backend Engineering from Scaler Academy
+- 🌐 Deep domain knowledge in Java, Cloud, SAP, Data Engineering hiring
+- 🥊 Participant — Meta PyTorch OpenEnv Hackathon 2026
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Choubey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashdns)
+[![LeetCode](https://img.shields.io/badge/LeetCode-akashdns-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/akashdns)
+[![Email](https://img.shields.io/badge/Email-akash%40email.com-red?style=for-the-badge&logo=gmail)](mailto:akash.dns1@gmail.com)
+
+---
+
+⭐ *"The best engineers aren't born — they're built, one commit at a time."*
+
+
 **Professional Tools:**
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
