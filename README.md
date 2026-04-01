@@ -21,7 +21,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Professional Tools:**
 
@@ -41,8 +40,6 @@ Building Projects & Open Source Contributions
 ↓
 Software Development Engineer 🎯
 
-text
-
 ---
 
 ## 🏆 Highlights
@@ -50,7 +47,6 @@ text
 - 🤝 200+ successful IT placements across USA & Canada
 - 🧠 Pursuing DSA & Backend Engineering from Scaler Academy
 - 🌐 Deep domain knowledge in Java, Cloud, SAP, Data Engineering hiring
-- 🥊 Participant — Meta PyTorch OpenEnv Hackathon 2026
 
 ---
 
